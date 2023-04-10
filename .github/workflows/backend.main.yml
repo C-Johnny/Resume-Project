@@ -2,7 +2,7 @@ name: Deploy DotNet project to function app with a Windows environment
 
 on:
   push:
-      branches: [ main]
+      branches: [ main ]
       paths:
       - 'backend'/**
 env:
