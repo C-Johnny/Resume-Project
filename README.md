@@ -2,7 +2,7 @@
 My resume on my personal website to display my experience, projects, and allow others to learn more about me. This was completed courtesy of the resume challenge by Gwyneth Peña-Siguenza and her video. 
 
 Project Diagram
-![sec 1](https://user-images.githubusercontent.com/122903970/230758918-266ee92f-039b-44b7-a747-dc2710f59753.jpg)
+![123456666](https://user-images.githubusercontent.com/122903970/231036219-2ad63957-82ea-45a8-b93e-a01d787b8401.png)
 
 Section One: Building the Frontend
 ![image](https://user-images.githubusercontent.com/122903970/230758851-d11e3c1c-70bc-4d21-aaa8-f886d2c65ee3.png)
